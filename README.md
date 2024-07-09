@@ -35,4 +35,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mokeshraj/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/mokeshraj/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
