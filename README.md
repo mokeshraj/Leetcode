@@ -25,6 +25,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mokeshraj/leetcode/tree/master/0020-valid-parentheses) |
 | [3379-score-of-a-string](https://github.com/mokeshraj/leetcode/tree/master/3379-score-of-a-string) |
 ## Hash Table
 |  |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mokeshraj/leetcode/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mokeshraj/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
