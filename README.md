@@ -25,12 +25,14 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mokeshraj/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mokeshraj/leetcode/tree/master/0020-valid-parentheses) |
 | [3379-score-of-a-string](https://github.com/mokeshraj/leetcode/tree/master/3379-score-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mokeshraj/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/mokeshraj/leetcode/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [0002-add-two-numbers](https://github.com/mokeshraj/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mokeshraj/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mokeshraj/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/mokeshraj/leetcode/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
