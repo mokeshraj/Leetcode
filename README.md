@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/mokeshraj/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mokeshraj/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mokeshraj/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/mokeshraj/leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mokeshraj/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mokeshraj/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1580-shuffle-the-array](https://github.com/mokeshraj/leetcode/tree/master/1580-shuffle-the-array) |
@@ -69,6 +70,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mokeshraj/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mokeshraj/leetcode/tree/master/0069-sqrtx) |
 ## Memoization
 |  |
