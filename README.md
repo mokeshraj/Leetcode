@@ -20,6 +20,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mokeshraj/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1511-count-number-of-teams](https://github.com/mokeshraj/leetcode/tree/master/1511-count-number-of-teams) |
 | [1580-shuffle-the-array](https://github.com/mokeshraj/leetcode/tree/master/1580-shuffle-the-array) |
+| [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mokeshraj/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@
 | [0001-two-sum](https://github.com/mokeshraj/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mokeshraj/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/mokeshraj/leetcode/tree/master/0041-first-missing-positive) |
+| [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [0013-roman-to-integer](https://github.com/mokeshraj/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/mokeshraj/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mokeshraj/leetcode/tree/master/0070-climbing-stairs) |
+| [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -84,4 +87,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/mokeshraj/leetcode/tree/master/1511-count-number-of-teams) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
