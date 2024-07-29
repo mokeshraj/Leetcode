@@ -18,6 +18,7 @@
 | [0041-first-missing-positive](https://github.com/mokeshraj/leetcode/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mokeshraj/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mokeshraj/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1511-count-number-of-teams](https://github.com/mokeshraj/leetcode/tree/master/1511-count-number-of-teams) |
 | [1580-shuffle-the-array](https://github.com/mokeshraj/leetcode/tree/master/1580-shuffle-the-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mokeshraj/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
@@ -44,6 +45,7 @@
 | [0070-climbing-stairs](https://github.com/mokeshraj/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mokeshraj/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mokeshraj/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1511-count-number-of-teams](https://github.com/mokeshraj/leetcode/tree/master/1511-count-number-of-teams) |
 ## Greedy
 |  |
 | ------- |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mokeshraj/leetcode/tree/master/0070-climbing-stairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/mokeshraj/leetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
