@@ -21,6 +21,7 @@
 | [1511-count-number-of-teams](https://github.com/mokeshraj/leetcode/tree/master/1511-count-number-of-teams) |
 | [1580-shuffle-the-array](https://github.com/mokeshraj/leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/mokeshraj/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mokeshraj/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/mokeshraj/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
@@ -63,6 +64,7 @@
 | [0069-sqrtx](https://github.com/mokeshraj/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mokeshraj/leetcode/tree/master/0070-climbing-stairs) |
 | [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/mokeshraj/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/mokeshraj/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Linked List
 |  |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mokeshraj/leetcode/tree/master/0002-add-two-numbers) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/mokeshraj/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
 | ------- |
@@ -93,4 +96,12 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/mokeshraj/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/mokeshraj/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
