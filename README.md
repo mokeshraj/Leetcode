@@ -27,6 +27,7 @@
 | [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mokeshraj/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mokeshraj/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/mokeshraj/leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2722-prime-in-diagonal](https://github.com/mokeshraj/leetcode/tree/master/2722-prime-in-diagonal) |
 | [2727-number-of-senior-citizens](https://github.com/mokeshraj/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/mokeshraj/leetcode/tree/master/3194-find-words-containing-character) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/mokeshraj/leetcode/tree/master/0067-add-binary) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mokeshraj/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/mokeshraj/leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 ## Matrix
 |  |
 | ------- |
