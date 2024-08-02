@@ -20,6 +20,7 @@
 | [0066-plus-one](https://github.com/mokeshraj/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mokeshraj/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mokeshraj/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/mokeshraj/leetcode/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mokeshraj/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/mokeshraj/leetcode/tree/master/0283-move-zeroes) |
 | [0948-sort-an-array](https://github.com/mokeshraj/leetcode/tree/master/0948-sort-an-array) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mokeshraj/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/mokeshraj/leetcode/tree/master/0136-single-number) |
 ## Sorting
 |  |
 | ------- |
