@@ -31,11 +31,13 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mokeshraj/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mokeshraj/leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mokeshraj/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mokeshraj/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mokeshraj/leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mokeshraj/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mokeshraj/leetcode/tree/master/0058-length-of-last-word) |
 | [0782-jewels-and-stones](https://github.com/mokeshraj/leetcode/tree/master/0782-jewels-and-stones) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mokeshraj/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [2722-prime-in-diagonal](https://github.com/mokeshraj/leetcode/tree/master/2722-prime-in-diagonal) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mokeshraj/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
