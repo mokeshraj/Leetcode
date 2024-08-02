@@ -17,6 +17,7 @@
 | [0035-search-insert-position](https://github.com/mokeshraj/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/mokeshraj/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mokeshraj/leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/mokeshraj/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mokeshraj/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mokeshraj/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1511-count-number-of-teams](https://github.com/mokeshraj/leetcode/tree/master/1511-count-number-of-teams) |
@@ -78,6 +79,7 @@
 | [0007-reverse-integer](https://github.com/mokeshraj/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mokeshraj/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mokeshraj/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/mokeshraj/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mokeshraj/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mokeshraj/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mokeshraj/leetcode/tree/master/0070-climbing-stairs) |
