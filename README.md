@@ -36,6 +36,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/mokeshraj/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mokeshraj/leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/mokeshraj/leetcode/tree/master/0058-length-of-last-word) |
 | [0782-jewels-and-stones](https://github.com/mokeshraj/leetcode/tree/master/0782-jewels-and-stones) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mokeshraj/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2727-number-of-senior-citizens](https://github.com/mokeshraj/leetcode/tree/master/2727-number-of-senior-citizens) |
