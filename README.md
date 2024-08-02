@@ -39,6 +39,7 @@
 | [0020-valid-parentheses](https://github.com/mokeshraj/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mokeshraj/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mokeshraj/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/mokeshraj/leetcode/tree/master/0067-add-binary) |
 | [0782-jewels-and-stones](https://github.com/mokeshraj/leetcode/tree/master/0782-jewels-and-stones) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mokeshraj/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2727-number-of-senior-citizens](https://github.com/mokeshraj/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -69,6 +70,7 @@
 | [0007-reverse-integer](https://github.com/mokeshraj/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mokeshraj/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mokeshraj/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/mokeshraj/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mokeshraj/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mokeshraj/leetcode/tree/master/0070-climbing-stairs) |
 | [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -112,6 +114,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mokeshraj/leetcode/tree/master/0067-add-binary) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mokeshraj/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
@@ -125,4 +128,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mokeshraj/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mokeshraj/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
