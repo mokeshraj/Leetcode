@@ -45,6 +45,7 @@
 | [0058-length-of-last-word](https://github.com/mokeshraj/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mokeshraj/leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/mokeshraj/leetcode/tree/master/0344-reverse-string) |
+| [0459-repeated-substring-pattern](https://github.com/mokeshraj/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0782-jewels-and-stones](https://github.com/mokeshraj/leetcode/tree/master/0782-jewels-and-stones) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mokeshraj/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2727-number-of-senior-citizens](https://github.com/mokeshraj/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mokeshraj/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/mokeshraj/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
