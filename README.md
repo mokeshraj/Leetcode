@@ -36,6 +36,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/mokeshraj/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mokeshraj/leetcode/tree/master/0020-valid-parentheses) |
+| [0782-jewels-and-stones](https://github.com/mokeshraj/leetcode/tree/master/0782-jewels-and-stones) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mokeshraj/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2727-number-of-senior-citizens](https://github.com/mokeshraj/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/mokeshraj/leetcode/tree/master/3379-score-of-a-string) |
@@ -45,6 +46,7 @@
 | [0001-two-sum](https://github.com/mokeshraj/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mokeshraj/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/mokeshraj/leetcode/tree/master/0041-first-missing-positive) |
+| [0782-jewels-and-stones](https://github.com/mokeshraj/leetcode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
