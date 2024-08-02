@@ -28,6 +28,7 @@
 | [2722-prime-in-diagonal](https://github.com/mokeshraj/leetcode/tree/master/2722-prime-in-diagonal) |
 | [2727-number-of-senior-citizens](https://github.com/mokeshraj/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/mokeshraj/leetcode/tree/master/3194-find-words-containing-character) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/mokeshraj/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/mokeshraj/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
