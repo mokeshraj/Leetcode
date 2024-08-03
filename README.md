@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/mokeshraj/leetcode/tree/master/0283-move-zeroes) |
 | [0948-sort-an-array](https://github.com/mokeshraj/leetcode/tree/master/0948-sort-an-array) |
 | [1511-count-number-of-teams](https://github.com/mokeshraj/leetcode/tree/master/1511-count-number-of-teams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mokeshraj/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/mokeshraj/leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mokeshraj/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -67,6 +68,7 @@
 | [0041-first-missing-positive](https://github.com/mokeshraj/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mokeshraj/leetcode/tree/master/0049-group-anagrams) |
 | [0782-jewels-and-stones](https://github.com/mokeshraj/leetcode/tree/master/0782-jewels-and-stones) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mokeshraj/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
@@ -158,6 +160,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/mokeshraj/leetcode/tree/master/0049-group-anagrams) |
 | [0948-sort-an-array](https://github.com/mokeshraj/leetcode/tree/master/0948-sort-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mokeshraj/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
