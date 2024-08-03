@@ -22,6 +22,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mokeshraj/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/mokeshraj/leetcode/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mokeshraj/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/mokeshraj/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/mokeshraj/leetcode/tree/master/0283-move-zeroes) |
 | [0948-sort-an-array](https://github.com/mokeshraj/leetcode/tree/master/0948-sort-an-array) |
 | [1511-count-number-of-teams](https://github.com/mokeshraj/leetcode/tree/master/1511-count-number-of-teams) |
@@ -67,6 +68,7 @@
 | [0013-roman-to-integer](https://github.com/mokeshraj/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/mokeshraj/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mokeshraj/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/mokeshraj/leetcode/tree/master/0169-majority-element) |
 | [0782-jewels-and-stones](https://github.com/mokeshraj/leetcode/tree/master/0782-jewels-and-stones) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mokeshraj/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -126,6 +128,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mokeshraj/leetcode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Queue
 |  |
@@ -159,11 +162,13 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mokeshraj/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/mokeshraj/leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/mokeshraj/leetcode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mokeshraj/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mokeshraj/leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/mokeshraj/leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
