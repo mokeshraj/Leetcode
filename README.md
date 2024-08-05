@@ -60,6 +60,7 @@
 | [0344-reverse-string](https://github.com/mokeshraj/leetcode/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/mokeshraj/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0782-jewels-and-stones](https://github.com/mokeshraj/leetcode/tree/master/0782-jewels-and-stones) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mokeshraj/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mokeshraj/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2727-number-of-senior-citizens](https://github.com/mokeshraj/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/mokeshraj/leetcode/tree/master/3194-find-words-containing-character) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mokeshraj/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mokeshraj/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Math
 |  |
 | ------- |
