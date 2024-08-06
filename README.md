@@ -45,6 +45,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mokeshraj/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mokeshraj/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mokeshraj/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mokeshraj/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/mokeshraj/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mokeshraj/leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/mokeshraj/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -73,6 +74,7 @@
 | [0013-roman-to-integer](https://github.com/mokeshraj/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/mokeshraj/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mokeshraj/leetcode/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mokeshraj/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mokeshraj/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mokeshraj/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mokeshraj/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mokeshraj/leetcode/tree/master/0002-add-two-numbers) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mokeshraj/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/mokeshraj/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mokeshraj/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mokeshraj/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
