@@ -130,6 +130,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/mokeshraj/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mokeshraj/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mokeshraj/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -218,12 +219,15 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mokeshraj/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mokeshraj/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mokeshraj/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mokeshraj/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mokeshraj/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mokeshraj/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
