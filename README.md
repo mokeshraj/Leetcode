@@ -18,6 +18,7 @@
 | [0041-first-missing-positive](https://github.com/mokeshraj/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mokeshraj/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/mokeshraj/leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/mokeshraj/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mokeshraj/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mokeshraj/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/mokeshraj/leetcode/tree/master/0136-single-number) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mokeshraj/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/mokeshraj/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mokeshraj/leetcode/tree/master/0136-single-number) |
 ## Sorting
 |  |
@@ -255,4 +257,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mokeshraj/leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/mokeshraj/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
