@@ -36,6 +36,7 @@
 | [1580-shuffle-the-array](https://github.com/mokeshraj/leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mokeshraj/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/mokeshraj/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mokeshraj/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/mokeshraj/leetcode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2722-prime-in-diagonal](https://github.com/mokeshraj/leetcode/tree/master/2722-prime-in-diagonal) |
@@ -97,6 +98,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mokeshraj/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mokeshraj/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1511-count-number-of-teams](https://github.com/mokeshraj/leetcode/tree/master/1511-count-number-of-teams) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/mokeshraj/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Greedy
 |  |
 | ------- |
