@@ -70,6 +70,7 @@
 | [0067-add-binary](https://github.com/mokeshraj/leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/mokeshraj/leetcode/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/mokeshraj/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0778-reorganize-string](https://github.com/mokeshraj/leetcode/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/mokeshraj/leetcode/tree/master/0782-jewels-and-stones) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mokeshraj/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mokeshraj/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -88,6 +89,7 @@
 | [0169-majority-element](https://github.com/mokeshraj/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mokeshraj/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mokeshraj/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0778-reorganize-string](https://github.com/mokeshraj/leetcode/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/mokeshraj/leetcode/tree/master/0782-jewels-and-stones) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mokeshraj/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mokeshraj/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0778-reorganize-string](https://github.com/mokeshraj/leetcode/tree/master/0778-reorganize-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mokeshraj/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Math
 |  |
@@ -170,6 +173,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mokeshraj/leetcode/tree/master/0169-majority-element) |
+| [0778-reorganize-string](https://github.com/mokeshraj/leetcode/tree/master/0778-reorganize-string) |
 | [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Queue
 |  |
@@ -208,6 +212,7 @@
 | [0049-group-anagrams](https://github.com/mokeshraj/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mokeshraj/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mokeshraj/leetcode/tree/master/0217-contains-duplicate) |
+| [0778-reorganize-string](https://github.com/mokeshraj/leetcode/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/mokeshraj/leetcode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mokeshraj/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
@@ -218,6 +223,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/mokeshraj/leetcode/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/mokeshraj/leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
