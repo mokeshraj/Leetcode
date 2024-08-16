@@ -43,6 +43,7 @@
 | [2727-number-of-senior-citizens](https://github.com/mokeshraj/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/mokeshraj/leetcode/tree/master/3194-find-words-containing-character) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/mokeshraj/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/mokeshraj/leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/mokeshraj/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mokeshraj/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1511-count-number-of-teams](https://github.com/mokeshraj/leetcode/tree/master/1511-count-number-of-teams) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/mokeshraj/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/mokeshraj/leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Greedy
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [0078-subsets](https://github.com/mokeshraj/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mokeshraj/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/mokeshraj/leetcode/tree/master/0136-single-number) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/mokeshraj/leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Sorting
 |  |
 | ------- |
@@ -269,4 +272,8 @@
 | [0077-combinations](https://github.com/mokeshraj/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/mokeshraj/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mokeshraj/leetcode/tree/master/0090-subsets-ii) |
+## Bitmask
+|  |
+| ------- |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/mokeshraj/leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 <!---LeetCode Topics End-->
