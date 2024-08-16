@@ -35,6 +35,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mokeshraj/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/mokeshraj/leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/mokeshraj/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1835-decode-xored-permutation](https://github.com/mokeshraj/leetcode/tree/master/1835-decode-xored-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mokeshraj/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/mokeshraj/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mokeshraj/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -205,6 +206,7 @@
 | [0078-subsets](https://github.com/mokeshraj/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mokeshraj/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/mokeshraj/leetcode/tree/master/0136-single-number) |
+| [1835-decode-xored-permutation](https://github.com/mokeshraj/leetcode/tree/master/1835-decode-xored-permutation) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/mokeshraj/leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Sorting
 |  |
