@@ -21,6 +21,7 @@
 | [0051-n-queens](https://github.com/mokeshraj/leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/mokeshraj/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/mokeshraj/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mokeshraj/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mokeshraj/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mokeshraj/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mokeshraj/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -70,6 +71,7 @@
 | [0049-group-anagrams](https://github.com/mokeshraj/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mokeshraj/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mokeshraj/leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/mokeshraj/leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/mokeshraj/leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/mokeshraj/leetcode/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/mokeshraj/leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -192,6 +194,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mokeshraj/leetcode/tree/master/0079-word-search) |
 | [2722-prime-in-diagonal](https://github.com/mokeshraj/leetcode/tree/master/2722-prime-in-diagonal) |
 ## Number Theory
 |  |
@@ -283,6 +286,7 @@
 | [0051-n-queens](https://github.com/mokeshraj/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/mokeshraj/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/mokeshraj/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mokeshraj/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mokeshraj/leetcode/tree/master/0090-subsets-ii) |
 ## Bitmask
 |  |
